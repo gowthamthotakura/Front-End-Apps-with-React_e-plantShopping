@@ -11,7 +11,7 @@ The Paradise Nursery shopping cart features includes:
 7.	A Continue Shopping and Checkout buttons
 
 
-Learning objectives:
+Goal:
 
 Created function React components composed and nested them.
 
@@ -22,4 +22,3 @@ Integrated Redux within your React application and applied Redux concepts like a
 Dynamically rendered data fetched from an array of objects onto the UI. You mapped over arrays to generate lists of components.
 
 Handled user events such as button selection and triggered corresponding actions to add and remove items in the cart.
-
